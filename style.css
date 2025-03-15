@@ -201,7 +201,7 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
-  max-width: auto;
+  max-width: 45vw;
 }
 
 .home__title-color {
